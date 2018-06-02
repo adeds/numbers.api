@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e2b674</color>
+    <color name="colorPrimaryDark">#ab7d49</color>
+    <color name="colorAccent">#ff0d00</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+
+    <color name="me">#ff0000</color>
+    <color name="ji">#ff9d00</color>
+    <color name="ku">#fff200</color>
+    <color name="hi">#44ff00</color>
+    <color name="bi">#00ffe1</color>
+    <color name="bibi">#0040ff</color>
+    <color name="ni">#c300ff</color>
+    <color name="ung">#ff0073</color>
+
+
+</resources>

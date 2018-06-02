@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">PRIMEn</string>
+    <string name="title_home">Home</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="search">Search</string>
+    <string name="info">Info</string>
+    <string name="sample"> hello </string>
+    <string name="random">random</string>
+    <string name="today">today</string>
+    <string name="other">other</string>
+    <string name="petik">"\""</string>
+    <string name="select_type">Select type what you search</string>
+    <string name="select_month">Select Month first</string>
+    <string name="input">Input the Number</string>
+    <string-array name="search_type">
+        <item>Type</item>
+        <item>MATH</item>
+        <item>TRIVIA</item>
+        <item>YEAR</item>
+        <item>DATE</item>
+    </string-array>
+    <string-array name="month">
+        <item>Select month</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>
